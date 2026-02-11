@@ -2,6 +2,27 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+
+# 🚀 Next.js Project
+
+A modern web application built with [Next.js](https://nextjs.org), optimized for performance and developer experience.
+
+---
+
+## 🛠 Features
+- **App Router:** Utilizing the latest Next.js features.
+- **Optimized Fonts:** Powered by `next/font` with Geist.
+- **Responsive Design:** Ready for any screen size.
+
+---
+
+## ⚡ Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+
 First, run the development server:
 
 ```bash
